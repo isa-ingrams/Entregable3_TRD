@@ -1,0 +1,22 @@
+TÉCNICAS DE RECOGIDA DE DATOS
+ENTREGABLE 3 (PROYECTO FINAL)
+
+Fecha de entrega 01/12/2025 (así aparece en el enunciado)
+
+OBJETIVO
+El objetivo consiste en sacar un dataframe con los datos obtenidos de cualquier fuente externa que no se haya visto en clase. No puede ser un escrapeo web. Todo en un único notebook.
+
+EVALUACIÓN
+La evaluación puntúa tanto el resultado final como el informe (en el propio notebook) de los pasos que se han seguido y los errores que se han ido obteniendo durante el camino, así como cómo se han encontrado las soluciones.
+
+NOTA
+De utilizar APIs, no utilizar tiers de pago. Limitarse al free trial.
+
+FUENTES YA VISTAS EN CLASE (NO SE PUEDEN USAR)
+INE, Google Trends, Azure Maps, Facebook, YouTube, Amazon, Twitter, SmartWatch, imágenes y GPS de imágenes, web scraping en general.
+
+ENFOQUE ELEGIDO
+Fuente única, la API del Banco Mundial (gratuita y sin clave).
+Tema, calidad de vida en 31 países europeos (UE27 más Noruega, Suiza, Islandia y Reino Unido) entre 2015 y 2023.
+Idea de negocio, comparador de países para personas que quieren mudarse a trabajar a otro país de Europa.
+Notebook, Proyecto_final_calidad_vida_Europa.ipynb
